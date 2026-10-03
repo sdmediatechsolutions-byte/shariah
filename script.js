@@ -6,10 +6,10 @@
     const CONFIG = Object.freeze({
 
         pixelId:
-            '1148804434153543',
+            '2193658134893305',
 
         telegramUrl:
-            'https://t.me/+PABpOM6kiA9iOGE1',
+            'https://t.me/+aPc_X5HLNq85MTM1',
 
         pageViewDelayMs:
             3000,
